@@ -1,0 +1,75 @@
+palettes:
+  - name: palette
+    fixed-entries:
+      - color: {index: 0, r: 0, g: 0, b: 0}
+      - color: {index: 1, r: 255, g: 0, b: 128}
+    images: automatic
+    
+converts:
+  - name: icons
+    palette: palette
+    transparent-color-index: 1
+    compress: zx7
+    images:
+      - GLOBE1.png
+      - GLOBE2.png
+      - GLOBE3.png
+      - GLOBE4.png
+      - GLOBE5.png
+      - GLOBE6.png
+      - GLOBE7.png
+      - GLOBE8.png
+      - GLOBE9.png
+      - GLOBE10.png
+      - GLOBE11.png
+      - ICON_BALL_1.png
+      - ICON_BALL_2.png
+      - ICON_BALL_3.png
+      - ICON_BALL_4.png
+      - ICON_BLOCKGUY_1.png
+      - ICON_BLOCKGUY_2.png
+      - ICON_BLOCKGUY_3.png
+      - ICON_BLOCKGUY_4.png
+      - ICON_BLOCK_1.png
+      - ICON_BLOCK_2.png
+      - ICON_BLOCK_3.png
+      - ICON_BLOCK_4.png
+      - ICON_BOUNCE_1.png
+      - ICON_BOUNCE_2.png
+      - ICON_BOUNCE_3.png
+      - ICON_BOUNCE_4.png
+      - ICON_CALCZAP_1.png
+      - ICON_CALCZAP_2.png
+      - ICON_CALCZAP_3.png
+      - ICON_CALCZAP_4.png
+      - ICON_DKONG_1.png
+      - ICON_DKONG_2.png
+      - ICON_DKONG_3.png
+      - ICON_DKONG_4.png
+      - ICON_FLAPPYBIRD_1.png
+      - ICON_FLAPPYBIRD_2.png
+      - ICON_FLAPPYBIRD_3.png
+      - ICON_FLAPPYBIRD_4.png
+      - ICON_MARIO_1.png
+      - ICON_MARIO_2.png
+      - ICON_MARIO_3.png
+      - ICON_MARIO_4.png
+      - ICON_PORTAL_1.png
+      - ICON_PORTAL_2.png
+      - ICON_PORTAL_3.png
+      - ICON_PORTAL_4.png 
+
+  - name: logo
+    palette: palette
+    transparent-color-index: 1
+    images:
+      - CEMETECH_LOGO.png
+    
+outputs:
+  - type: c
+    include-file: gfx.h
+    palettes:
+      - palette
+    converts:
+      - icons
+      - logo
