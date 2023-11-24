@@ -1,9 +1,9 @@
 /*
  *--------------------------------------
- * Program Name: DEMO
+ * Program Name: SCRNSVR
  * Author: ALVJOY123
- * License: MIT
- * Description: CC26
+ * License: BSD-3-Clause license
+ * Description: CEMETECH CONTEST 26
  *--------------------------------------
  */
 
