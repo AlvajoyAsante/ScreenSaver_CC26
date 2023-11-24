@@ -105,7 +105,7 @@ static void PrintCentered_Y(const char *str, int y)
 /**
  * Initializes the screensaver by allocating necessary resources and setting up initial values.
  */
-static void init_screensaver(void)
+static void screensaver_Initialize(void)
 {
     temp = gfx_MallocSprite(ICON_BALL_1_width, ICON_BALL_1_height);
 
@@ -491,7 +491,7 @@ int main(void)
     lcd_BacklightLevel = 215;
 
     // Setting Init
-    init_screensaver();
+    screensaver_Initialize();
 
     gfx_Begin();
 
