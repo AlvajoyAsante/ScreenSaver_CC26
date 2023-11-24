@@ -11,8 +11,6 @@
  */
 #define DEFAULT_BACKGROUND_DY 0
 
-
-
 #include <tice.h>
 #include <graphx.h>
 #include "gfx/gfx.h"
