@@ -47,7 +47,8 @@ I included Bouncing TV to close off the whole program.
 ## Development
 
 <img src="https://i.imgur.com/XLu7VTH.png" width="240" height="160"> <img src="https://i.imgur.com/lREpm7w.png" width="240" height="160"> <img src="https://i.imgur.com/E59Ton4.png" width="240" height="160">
-Foundation -> Built -> Final
+
+SDLC; Foundation -> Build -> Final
 
 Entry Cemetech Forum: https://www.cemetech.net/forum/viewtopic.php?p=304643
 
