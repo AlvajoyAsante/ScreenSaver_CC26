@@ -1,6 +1,9 @@
 # ScreenSaver: Cemetech Contest 26
 
-<img src="https://i.imgur.com/GPZODBe.png" width="500" height="400">![](https://i.imgur.com/mqcfxfk.png)
+
+<div style="position: relative;">
+  <img src="https://i.imgur.com/mqcfxfk.png" alt="Image 2" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 50%; height: 50%;">
+</div>
 
 > *This is my entry to the CEMETCH CC26 contest, held in November 2023*. This year's contest theme is "Screen Saver."
 > Inspired by the desire to showcase the meaning of the community, I embarked on a journey to develop a collection of CE game screen savers.
