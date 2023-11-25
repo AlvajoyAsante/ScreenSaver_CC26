@@ -8,8 +8,8 @@ extern "C" {
 #define GLOBE11_width 52
 #define GLOBE11_height 32
 #define GLOBE11_size 1666
-#define GLOBE11_compressed_size 580
-extern unsigned char GLOBE11_compressed[580];
+#define GLOBE11_compressed_size 585
+extern unsigned char GLOBE11_compressed[585];
 
 #ifdef __cplusplus
 }

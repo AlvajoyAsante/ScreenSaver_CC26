@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_BLOCKGUY_3_width 94
 #define ICON_BLOCKGUY_3_height 81
 #define ICON_BLOCKGUY_3_size 7616
-#define ICON_BLOCKGUY_3_compressed_size 361
-extern unsigned char ICON_BLOCKGUY_3_compressed[361];
+#define ICON_BLOCKGUY_3_compressed_size 481
+extern unsigned char ICON_BLOCKGUY_3_compressed[481];
 
 #ifdef __cplusplus
 }

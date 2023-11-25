@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_CALCZAP_1_width 94
 #define ICON_CALCZAP_1_height 81
 #define ICON_CALCZAP_1_size 7616
-#define ICON_CALCZAP_1_compressed_size 304
-extern unsigned char ICON_CALCZAP_1_compressed[304];
+#define ICON_CALCZAP_1_compressed_size 418
+extern unsigned char ICON_CALCZAP_1_compressed[418];
 
 #ifdef __cplusplus
 }

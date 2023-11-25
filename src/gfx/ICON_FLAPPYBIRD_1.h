@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_FLAPPYBIRD_1_width 94
 #define ICON_FLAPPYBIRD_1_height 81
 #define ICON_FLAPPYBIRD_1_size 7616
-#define ICON_FLAPPYBIRD_1_compressed_size 339
-extern unsigned char ICON_FLAPPYBIRD_1_compressed[339];
+#define ICON_FLAPPYBIRD_1_compressed_size 470
+extern unsigned char ICON_FLAPPYBIRD_1_compressed[470];
 
 #ifdef __cplusplus
 }

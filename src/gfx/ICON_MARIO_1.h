@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_MARIO_1_width 94
 #define ICON_MARIO_1_height 81
 #define ICON_MARIO_1_size 7616
-#define ICON_MARIO_1_compressed_size 292
-extern unsigned char ICON_MARIO_1_compressed[292];
+#define ICON_MARIO_1_compressed_size 403
+extern unsigned char ICON_MARIO_1_compressed[403];
 
 #ifdef __cplusplus
 }

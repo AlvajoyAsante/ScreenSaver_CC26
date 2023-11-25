@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_BOUNCE_4_width 94
 #define ICON_BOUNCE_4_height 81
 #define ICON_BOUNCE_4_size 7616
-#define ICON_BOUNCE_4_compressed_size 214
-extern unsigned char ICON_BOUNCE_4_compressed[214];
+#define ICON_BOUNCE_4_compressed_size 330
+extern unsigned char ICON_BOUNCE_4_compressed[330];
 
 #ifdef __cplusplus
 }

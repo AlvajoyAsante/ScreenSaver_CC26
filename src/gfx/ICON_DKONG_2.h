@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_DKONG_2_width 94
 #define ICON_DKONG_2_height 81
 #define ICON_DKONG_2_size 7616
-#define ICON_DKONG_2_compressed_size 536
-extern unsigned char ICON_DKONG_2_compressed[536];
+#define ICON_DKONG_2_compressed_size 628
+extern unsigned char ICON_DKONG_2_compressed[628];
 
 #ifdef __cplusplus
 }

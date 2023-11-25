@@ -8,8 +8,8 @@ extern "C" {
 #define ICON_PORTAL_4_width 94
 #define ICON_PORTAL_4_height 81
 #define ICON_PORTAL_4_size 7616
-#define ICON_PORTAL_4_compressed_size 290
-extern unsigned char ICON_PORTAL_4_compressed[290];
+#define ICON_PORTAL_4_compressed_size 382
+extern unsigned char ICON_PORTAL_4_compressed[382];
 
 #ifdef __cplusplus
 }
